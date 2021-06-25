@@ -35,6 +35,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soukainanachib" alt="soukainanachib" /></a> </p>
 
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://komarev.com/ghpvc/?username=soukainanachib&label=Profile%20views&color=0e75b6&style=flat" alt="soukainanachib"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/soukainanachib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soukainanachib" height="30" width="40" /></a>
