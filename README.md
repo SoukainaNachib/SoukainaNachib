@@ -35,8 +35,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soukainanachib" alt="soukainanachib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/soukainanachib" target="blank"><img src="https://img.shields.io/twitter/follow/soukainanachib?logo=twitter&style=for-the-badge" alt="soukainanachib" /></a> </p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://twitter.com/soukainanachib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soukainanachib" height="30" width="40" /></a>
