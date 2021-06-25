@@ -1,11 +1,11 @@
 <h2>Hey there! I'm Soukaina Nachib</h2>
-
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 <!-- ## 👋 &nbsp;Hey there! I'm Soukaina -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at soukaina.nachib23@gmail.com I'll try to respond as soon as I can.\
